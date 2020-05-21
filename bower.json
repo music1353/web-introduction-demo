@@ -1,0 +1,24 @@
+{
+  "name": "bs3-practice-master",
+  "authors": [
+    "andy19910102 <andy19910102@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "raty": "^2.7.1",
+    "wow": "^1.1.2",
+    "jquery.easing": "^1.3.1"
+  }
+}
